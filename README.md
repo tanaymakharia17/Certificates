@@ -16,3 +16,9 @@ React-redux -
 Agile Project Development - 
 
 <img width="772" alt="Screenshot 2023-06-03 at 1 42 30 AM" src="https://github.com/tanaymakharia17/Certificates/assets/55875294/1587fb20-ccee-4057-8f3f-6ca5021891e0">
+
+
+
+Git - 
+![git](https://github.com/tanaymakharia17/Certificates/assets/55875294/a9ecdc8a-b9a8-4053-8c26-84bc1ee7f3c3)
+
